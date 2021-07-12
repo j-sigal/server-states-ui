@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "60eb7be8dc6debb880142788",
+    "code": 100,
+    "state": "KWS_KERIDOS",
+    "color": "#82b1d1"
+  },
+  {
+    "_id": "60eb7be809d37b2e26bb08c4",
+    "code": 101,
+    "state": "KWS_KERIDOS_YG",
+    "color": "#6b9c78"
+  },
+  {
+    "_id": "60eb7be88a022d28f55cbc72",
+    "code": 103,
+    "state": "ERROR",
+    "color": "#ed6161"
+  },
+  {
+    "_id": "60eb7be840e8be874876bca8",
+    "code": 104,
+    "state": "UNKNOWN",
+    "color": "#522b5c"
+  }
+]

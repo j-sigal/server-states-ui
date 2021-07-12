@@ -1,0 +1,22 @@
+<div class="margin-top-20">
+    <h2 class="main-header">States status</h2>
+</div>
+<div class="hr-style">
+    <hr>
+</div>
+<div class="legend margin-top-10">
+    <span *ngFor="let state of distinct_states;">
+        <span class="circle" [ngStyle]="{'background-color':state.color}"></span>
+        {{state.state}};&nbsp;&nbsp;
+    </span>
+</div>
+<div class="content">
+    <img class="image-spinner" *ngIf="!loaded" src="/assets/images/robot.png" alt="">
+    <div *ngIf="loaded">
+        <div class="wrapper">
+            <div *ngFor="let s of states;">
+                <div class="box" [ngStyle]="{'background-color':s.color}"></div>
+            </div>
+        </div>
+    </div>
+</div>

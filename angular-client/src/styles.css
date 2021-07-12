@@ -1,0 +1,94 @@
+body
+{
+    color: #444444;
+    background-color: #f5f9ff;
+    padding-bottom: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Open Sans';
+}
+
+.margin-right-10{
+    margin-right: 10px!important;
+}
+
+.margin-left-10{
+    margin-left: 10px!important;
+}
+
+.margin-top-10{
+    margin-top: 10px!important;
+}
+
+.margin-bottom-10{
+    margin-bottom: 10px!important;
+}
+
+.margin-right-20{
+    margin-right: 20px!important;
+}
+
+.margin-left-20{
+    margin-left: 20px!important;
+}
+
+.margin-top-20{
+    margin-top: 20px!important;
+}
+
+.margin-bottom-20{
+    margin-bottom: 20px!important;
+}
+
+.padding-right-10{
+    padding-right: 10px!important;
+}
+
+.padding-left-10{
+    padding-left: 10px!important;
+}
+
+.padding-top-10{
+    padding-top: 10px!important;
+}
+
+.padding-bottom-10{
+    padding-bottom: 10px!important;
+}
+
+.padding-right-20{
+    padding-right: 20px!important;
+}
+
+.padding-left-20{
+    padding-left: 20px!important;
+}
+
+.padding-top-20{
+    padding-top: 20px!important;
+}
+
+.padding-bottom-20{
+    padding-bottom: 20px!important;
+}
+
+.footer {
+    border-top: 1px solid #dedede;
+    position:fixed;
+    padding: 10px 20px;
+    bottom:0;
+    left:0;
+    width:100%;
+    font-size: 12px;
+    background-color: white;
+}
+
+.footer a {
+    color: #444444;
+}
+
+.cursor-pointer {
+    cursor: pointer!important;
+}
+
+
